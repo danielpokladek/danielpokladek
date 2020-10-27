@@ -18,6 +18,10 @@
 <br/>
 <br/>
 
+### Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [blog]: https://danielpokladek.wordpress.com/
 [twitter]: https://twitter.com/DPokladek
 [projects]: https://github.com/danielpokladek
