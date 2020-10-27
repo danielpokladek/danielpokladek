@@ -17,6 +17,7 @@
 
 <br/>
 <br/>
+
 [blog]: https://danielpokladek.wordpress.com/
 [twitter]: https://twitter.com/DPokladek
 [projects]: https://github.com/danielpokladek
