@@ -20,6 +20,10 @@
 
 <!-- ### Latest Blog Posts: -->
 
+---
+
+<img align="left" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true"/>
+
 [blog]: https://danielpokladek.wordpress.com/
 [twitter]: https://twitter.com/DPokladek
 [projects]: https://github.com/danielpokladek
