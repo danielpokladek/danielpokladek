@@ -39,11 +39,11 @@
 <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <br/>
 <br/>
- 
-<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+
 <img align="left" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 <br/>
 <br/>
@@ -52,7 +52,7 @@
 
 ---
 
-<img align="left" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true"/>
+<img align="left" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true&bg_color=31363f&title_color=ffffff&text_color=9da5b4"/>
 
 [blog]: https://danielpokladek.wordpress.com/
 [itch]: https://dpokladek.itch.io/
