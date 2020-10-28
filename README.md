@@ -19,27 +19,26 @@
 ---
 
 ### Social Media:
-[<img src="https://img.shields.io/badge/Dpokladek%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-[<img align="left" alt="Twitter@DPokladek" width="22px" src="resources/icons/twitter.svg"/>][twitter]
+[<img align="left" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" src="https://img.shields.io/badge/Dpokladek%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+<!-- [<img align="left" alt="Twitter@DPokladek" width="22px" src="resources/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="www.linkedin.com/in/daniel-pokladek/" width="22px" src="resources/icons/linkedin.svg"/>][linkedin] -->
 [<img align="left" alt="danielpokladek.wordpress.com" width="22px" src="resources/icons/wordpress.svg"/>][blog]
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="www.linkedin.com/in/daniel-pokladek/" width="22px" src="resources/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="danielpokladek.itch.io" width="22px" src="resources/icons/itch-app-icon.svg"/>][itch]
 
 <br/>
 
 ---
 
-### Languages & Tools:
+### Languages:
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-<br/>
 
+### Tools:
 <img align="left" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -48,11 +47,9 @@
 <br/>
 <br/>
 
-<!-- ### Latest Blog Posts: -->
-
 ---
 
-<img align="left" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true&bg_color=31363f&title_color=ffffff&text_color=9da5b4"/>
+<img align="center" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true&bg_color=31363f&title_color=ffffff&text_color=9da5b4"/>
 
 [blog]: https://danielpokladek.wordpress.com/
 [itch]: https://dpokladek.itch.io/
