@@ -25,8 +25,6 @@
 
 <br/>
 
-https://www.flaticon.com/authors/pixel-perf
-
 ---
 
 ### Languages & Tools:
