@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Daniel Pokladek - Programmer, Game Dev & Shader Writer
 
 #### I create [Shaders][shaders], [Visual Effects][effects] and [Develop Games][games]
-- ⚙️ I use daily: `.cs`, `.cpp`, `.shader` (Unity Shader Files)
-- 🌍 I'm currently not employed, and I'm working on some [projects][projects]
-- 👯 I'm looking for new opportunities and projects to collaborate on
-- 📫 I'm also blogging all game dev things [here][blog]
-- ⚡️ Facts about me: I love coding, but I also like creative things! In my spare time I do photography and cooking
+- ⚙️ I use daily: `.cs`, `.cpp`, `.shader` (Unity Shader Files).
+- 🌍 I'm a graduate, currently looking for employment; I'm working on some [projects][projects].
+- 👯 I'm looking for new opportunities and projects to collaborate on!
+- 📫 I'm also blogging all game dev things [here][blog].
+- ⚡️ Facts about me: I love coding, but I also like creative things! In my spare time I do photography and cooking.
 
 #### 🌱 Currently Learning About:
 - Open Source and contributing to open source projects, I want to help the community!
@@ -21,8 +21,6 @@
 ### Social Media:
 [<img align="left" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" src="https://img.shields.io/badge/Dpokladek%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-<!-- [<img align="left" alt="Twitter@DPokladek" width="22px" src="resources/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="www.linkedin.com/in/daniel-pokladek/" width="22px" src="resources/icons/linkedin.svg"/>][linkedin] -->
 [<img align="left" alt="danielpokladek.wordpress.com" width="22px" src="resources/icons/wordpress.svg"/>][blog]
 [<img align="left" alt="danielpokladek.itch.io" width="22px" src="resources/icons/itch-app-icon.svg"/>][itch]
 
