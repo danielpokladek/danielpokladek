@@ -1,8 +1,7 @@
 ### Hi! 👋 I'm Daniel Pokladek - Programmer, Game Dev & Shader Writer
 
 #### I create [Shaders][shaders], [Visual Effects][effects] and [Develop Games][games]
-- ⚙️ I use daily: `.cs`, `.cpp`, `.shader` (Unity Shader Files).
-- 🌍 I'm a graduate, currently looking for employment; I'm working on some [projects][projects].
+- 🌍 I'm a graduate in games development.
 - 👯 I'm looking for new opportunities and projects to collaborate on!
 - 📫 I'm also blogging all game dev things [here][blog].
 - ⚡️ Facts about me: I love coding, but I also like creative things! In my spare time I do photography and cooking.
@@ -50,7 +49,7 @@
 
 <img align="center" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true&bg_color=31363f&title_color=ffffff&text_color=9da5b4"/>
 
-[blog]: https://danielpokladek.wordpress.com/
+[blog]: https://www.danielpokladek.me/
 [itch]: https://dpokladek.itch.io/
 [linkedin]: https://www.linkedin.com/in/daniel-pokladek/
 [projects]: https://github.com/danielpokladek
