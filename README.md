@@ -21,13 +21,13 @@ In my free time I work on numerous hobby projects, ranging from Shaders Vault to
 ---
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/daniel-pokladek/">
+    <a href="https://www.linkedin.com/in/daniel-pokladek/" style="text-decoration: none">
         <img src="./resources/icons/linkedin-brands-solid-full.svg" width="40px" >
     </a>
-    <a href="https://bsky.app/profile/dpokladek.bsky.social">
+    <a href="https://bsky.app/profile/dpokladek.bsky.social" style="text-decoration: none">
         <img src="./resources/icons/square-bluesky-brands-solid-full.svg" width="40px">
     </a>
-    <a href="mailto:hello@danielpokladek.me">
+    <a href="mailto:hello@danielpokladek.me" style="text-decoration: none">
         <img src="./resources/icons/at-solid-full.svg" width="40px">
     </a>
 </p>
