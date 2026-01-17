@@ -1,66 +1,33 @@
-### Hi! 👋 I'm Daniel Pokladek - Programmer, Game Dev & Shader Writer
+<!-- ### Hi! 👋 I'm Daniel Pokladek - Programmer, Game Dev & Shader Writer -->
 
-#### I create [Shaders][shaders], [Visual Effects][effects] and [Develop Games][games]
-- 🌍 I'm a graduate in games development.
-- 👯 I'm looking for new opportunities and projects to collaborate on!
-- 📫 I'm also blogging all game dev things [here][blog].
-- ⚡️ Facts about me: I love coding, but I also like creative things! In my spare time I do photography and cooking.
+# Hey there! I’m **Daniel Pokladek** ~
 
-#### 🌱 Currently Learning About:
-- Open Source and contributing to open source projects, I want to help the community!
-- C++ and how to properly use pointers.. they always get me!
-- OpenGL and how to make things appear on screen from scratch.
-- Learn how to use Unreal Engine and their material editor.
-- Developing games, you learn your whole life!
+I’m a UK-based developer, who technically is an artist - I love shaping the moment-to-moment feel of games through gameplay systems, tools, and shaders that bring ideas to life.
 
-#### 💬 Chat to me about **games**, **game dev**, **programming**, **shaders** and **anything creative**!
+My core experience is in C# and Unity games engine, but previously worked professionally with TypeScript, PixiJS, and GLSL shader language.
+
+In my free time I work on numerous hobby projects, ranging from Shaders Vault to PixiJS Particle System. I frequently blog about my projects to capture my findings and share my knowledge.
 
 ---
 
-### Social Media:
-[<img align="left" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" src="https://img.shields.io/badge/Dpokladek%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-[<img align="left" alt="danielpokladek.wordpress.com" width="22px" src="resources/icons/wordpress.svg"/>][blog]
-[<img align="left" alt="danielpokladek.itch.io" width="22px" src="resources/icons/itch-app-icon.svg"/>][itch]
-
-<br/>
-
----
-
-### Languages:
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-
-### Tools:
-<img align="left" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-
-<br/>
-<br/>
+<strong>
+    <p align="center">
+        <a href="https://github.com/danielpokladek-shaders">Shader Vault</a>
+        | <a href="https://github.com/danielpokladek/pixi-particle-system"> PixiJS Particle System</a>
+        | <a href="https://danielpokladek.github.io/blog/"> Personal Website</a>
+    </p>
+</strong>
 
 ---
 
-<img align="center" alt="Daniel Pokladek Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielpokladek&show_icons=true&hide_border=true&bg_color=31363f&title_color=ffffff&text_color=9da5b4"/>
-
-[blog]: https://www.danielpokladek.me/
-[itch]: https://dpokladek.itch.io/
-[linkedin]: https://www.linkedin.com/in/daniel-pokladek/
-[projects]: https://github.com/danielpokladek
-[twitter]: https://twitter.com/DPokladek
-[shaders]: #
-[effects]: #
-[games]: #
-
-
-
-
-
-<!-- Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
-<!-- Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
+<p align="center">
+    <a href="https://www.linkedin.com/in/daniel-pokladek/">
+        <img src="./resources/icons/linkedin-brands-solid-full.svg" width="40px" >
+    </a>
+    <a href="https://bsky.app/profile/dpokladek.bsky.social">
+        <img src="./resources/icons/square-bluesky-brands-solid-full.svg" width="40px">
+    </a>
+    <a href="mailto:hello@danielpokladek.me">
+        <img src="./resources/icons/at-solid-full.svg" width="40px">
+    </a>
+</p>
