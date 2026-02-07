@@ -1,6 +1,6 @@
-<!-- ### Hi! 👋 I'm Daniel Pokladek - Programmer, Game Dev & Shader Writer -->
-
-# Hey there! I’m **Daniel Pokladek** ~
+<p align="center">
+    <img width="846" height="132" alt="banner_github" src="https://github.com/user-attachments/assets/bee97562-2bdc-47da-8160-6be17443a9a7" />
+</p>
 
 I’m a UK-based developer, who technically is an artist - I love shaping the moment-to-moment feel of games through gameplay systems, tools, and shaders that bring ideas to life.
 
